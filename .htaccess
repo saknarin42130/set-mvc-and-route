@@ -1,0 +1,3 @@
+RewriteRule ^$    /Layout/index.php
+RewriteRule ^(.*)/$    /Layout/index.php/$1
+RewriteRule ^    /Layout/index.php
